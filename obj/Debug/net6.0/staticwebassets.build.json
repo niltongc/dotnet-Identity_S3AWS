@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DlQzRAUq53CphEjqKlYnFxHzvuhFwuNYlMETJ+/3NmM=",
+  "Source": "exmaple-identity",
+  "BasePath": "_content/exmaple-identity",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
